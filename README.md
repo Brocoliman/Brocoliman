@@ -3,13 +3,13 @@
 CS & Math at Yale.
 [Linkedin](https://www.linkedin.com/in/lucas-wang-85aa6b329/)
 
-### Now
+### Currently->
 
 Async vs. synchronous prompt evolution, at the MIT–UF–Northeastern Joint Summer
 Research Camp, advised by Xuan Jiang and Haoze He. Multi-seed
 runs on 4×H100. Paper in prep and code private.
 
-### InnoColor
+### InnoColor->
 
 Real-time recoloring for color vision deficiency. Augmented-reality app, model runs on device,
 user can switch architectures.
@@ -20,7 +20,7 @@ user can switch architectures.
 
 Both papers sole-authored. [Repo](https://github.com/TODO/InnoColor)
 
-### Elsewhere
+### Elsewhere->
 
 * [ANPRE](https://github.com/mbrzus/ANPRE). Project to Automate NeuroPsych Record Entry. We aim to utilize AI to engineer a system for automated processing of neuropsych patient evaluation scans into spreadsheets to allow for statistical analysis and further research.
 * [ISETBio fundamentals](https://isetbio.github.io/isetfundamentals/index.html).
