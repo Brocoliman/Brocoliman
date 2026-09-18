@@ -22,7 +22,7 @@ Both papers sole-authored. [Repo](https://github.com/TODO/InnoColor)
 
 ### Elsewhere
 
-* [ISETBio fundamentals]([https://isetbio.github.io/isetfundamentals/index.html](https://github.com/isetbio/isetfundamentals/tree/gh-pages)).
+* [ISETBio fundamentals](https://isetbio.github.io/isetfundamentals/index.html).
   Interactive tool for teaching visual perception, built at Stanford SCIEN.
 * [ANPRE](https://github.com/mbrzus/ANPRE). Project to Automate NeuroPsych Record Entry. We aim to utilize AI to engineer a system for automated processing of neuropsych patient evaluation scans into spreadsheets to allow for statistical analysis and further research.
 * FlashEvolve.
