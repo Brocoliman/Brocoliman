@@ -18,7 +18,7 @@ user can switch architectures.
 * **InnoColor**, second architecture. IEEE ICMI 2025. [IEEE ICMI, Wang, 2025](https://www.researchgate.net/publication/395368307_Innocolor_a_Pioneering_Image_Recoloring_Framework_Driven_by_Salient_Attention_Networks)
 * **InnoColor Edge**, current. Swin teacher distilled into the DDPA. Preprint pending, but you can view the paper on the repository.
 
-[Repo](https://github.com/TODO/InnoColor)
+[Repo](https://github.com/Brocoliman/InnoColor)
 
 ### Elsewhere->
 
