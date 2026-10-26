@@ -5,9 +5,15 @@ CS & Math at Yale.
 
 ### Currently->
 
-Async vs. synchronous prompt evolution, at the MIT–UF–Northeastern Joint Summer
-Research Camp, advised by Xuan Jiang and Haoze He. Multi-seed
-runs on 4×H100. Paper in prep and code private.
+[Honing](https://github.com/HectorHHZ/llm-honing), open source. Small decision models
+get good at a domain by playing in it, training on what happened, and improving the
+harness around them, shown in Red Alert 2 and Tank War. Led by Haoze He and Xuan Jiang.
+I work on the harness side: GEPA harness evolution, the reflection-model client, the
+task format and graders for coding tasks, and sandboxed Claude Code episodes against a
+local model.
+
+Before that: async vs. synchronous prompt evolution, at the MIT–UF–Northeastern Joint
+Summer Research Camp, advised by Xuan Jiang and Haoze He. Multi-seed runs on 4×H100.
 
 ### InnoColor->
 
